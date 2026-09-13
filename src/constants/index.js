@@ -149,7 +149,7 @@ const expCards = [
         imgPath: "/images/GBS_d.png",
         logoPath: "/images/logo2.png",
         title: "Full Stack Developer Intern",
-        date: "January 2025 - December 2025",
+        date: "May 2024 - December 2024",
         responsibilities: [
             "Developed and maintained responsive full-stack web applications using React, JavaScript, and modern web technologies.",
             "Collaborated with teams to deliver seamless and user-friendly digital experiences.",
